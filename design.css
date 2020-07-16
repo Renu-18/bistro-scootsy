@@ -1,0 +1,12 @@
+.menu{
+    border-radius: 50%;
+    height: 100px;
+}
+.col{
+    color:red;
+    font-size: 20px;
+}
+.spl{
+    height: 200px;
+    border-radius: 20%;
+}
